@@ -11,9 +11,10 @@ Boss One: Addie The Psycho
 
 # Versions
 
-Public Test 1.0,
-Developer Test 2.0,
-Beta Test 1.5
+Public Test 16.0,
+Developer Test 4.0,
+Beta Test 3.0
+Official Public Release 15.0.1
 
 ### Support or Contact
 
